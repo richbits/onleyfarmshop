@@ -1,0 +1,48 @@
+@charset "UTF-8";
+.center {
+	position: relative;
+	/* [disabled]top: 0; */
+	/* [disabled]bottom: 0; */
+	/* [disabled]left: 0; */
+	/* [disabled]right: 0; */
+	/* [disabled]margin-top: 100px; */
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	width: 800px;
+}
+#logo {
+	width: 800px;
+}
+.center #logoContainer {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+.center #counterContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 250px;
+}
+#counterImage {
+	width: 350px;
+	/* [disabled]height: 287px; */
+}
+.center #mapContainer {
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+.center #mapContainer #locationMapImage {
+	width: 200px;
+}
+.text p  {
+	text-align: center;
+	font-size: 20pt;
+}
+p {
+	line-height: 1.4em;
+}
